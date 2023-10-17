@@ -258,6 +258,10 @@ h3{
 }
 
 @media screen and (max-width: 375px){
+      body{
+        min-height: 200vh;
+    }
+  
     .main-div{
         display: flex;
         justify-content: center;
